@@ -1,4 +1,4 @@
-# D-PredML
+# Stack-DHUpred
 
 ## Development environment
 - python 3.8.8 
