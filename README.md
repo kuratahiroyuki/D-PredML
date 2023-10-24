@@ -1,13 +1,13 @@
 # Stack-DHUpred
 
 # Develoepment environment
- >python 3.8.8 
- >anaconda 4.11.0 
- >pandas 1.2.5
- >numpy 1.20.3
- >scikit-learn 1.1.2
- >lightgbm 3.2.1
- >xgboost  1.4.2
+ >python 3.8.8  
+ >anaconda 4.11.0  
+ >pandas 1.2.5  
+ >numpy 1.20.3  
+ >scikit-learn 1.1.2  
+ >lightgbm 3.2.1  
+ >xgboost  1.4.2  
 
 # Execution
 # 1 Setting directories
