@@ -27,7 +27,7 @@ $sh main.sh
 
 ## 3-2 Prediction performance visualization
 To see the prediction results, users must set the input parameters in analysis.py.
-$cd program
+$cd program  
 $python analysis.py
 
 # 4 Combination of selected baseline models
