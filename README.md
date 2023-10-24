@@ -20,13 +20,13 @@ Before simulation, users build dataset files for cross validataion and independe
 # 3 Baseline model
 Encoding: DNC TNC RCKmer ENAC binary CKSNAP NCP ANF EIIP PseEIIP PSTNPss W2V  
 Machine learning: RF SVM XGB LGBM NB KN  
-## 3-1 Training and testing of baseline models
+## 3-1 Training and testing of baseline models  
 $cd program/network  
-$sh main.sh
+$sh main.sh  
 (ml_train_test_D.py) 
 
 ## 3-2 Prediction performance visualization
-To see the prediction results, users must set the input parameters in analysis.py.
+To see the prediction results, users must set the input parameters in analysis.py.  
 $cd program  
 $python analysis.py  
 
